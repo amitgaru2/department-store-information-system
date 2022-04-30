@@ -1,7 +1,6 @@
-# department-store-information-system
+# Departmental Store Information System
 
-It is user interactive Department store information system developed using C programming language.
-It supports both Keyboard and Mouse support.
+It is user interactive Department store information system developed using C programming language with C Graphics Elements. It supports both Keyboard and Mouse interactions.
 
 Features :
 1. Secure system
